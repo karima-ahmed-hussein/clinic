@@ -46,27 +46,4 @@ require_once'./views/appointments.php';
 require_once './includes/footer.php';
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>

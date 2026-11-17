@@ -14,12 +14,12 @@
             <div class="col-sm order-sm-2">
                 <h1 class="h1">Links</h1>
                 <div class="links d-flex gap-2 flex-wrap">
-                    <a href="./index.php" class="link text-white">Home</a>
-                    <a href="./majors.php" class="link text-white">Majors</a>
-                    <a href="./doctors/doctors.php" class="link text-white">Doctors</a>
-                    <a href="./login.html" class="link text-white">Login</a>
-                    <a href="./register.php" class="link text-white">Register</a>
-                    <a href="./contact.php" class="link text-white">Contact</a>
+                    <a href="../routes.php?page=index" class="link text-white">Home</a>
+                    <a href="../routes.php?page=majors" class="link text-white">Majors</a>
+                    <a href="../routes.php?page=doctors" class="link text-white">Doctors</a>
+                    <a href="../routes.php?page=login" class="link text-white">Login</a>
+                    <a href="../routes.php?page=register" class="link text-white">Register</a>
+                    <a href="../routes.php?page=contact" class="link text-white">Contact</a>
                 </div>
             </div>
         </div>

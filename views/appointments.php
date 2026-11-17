@@ -9,16 +9,17 @@
         >
           <ol class="breadcrumb justify-content-center">
             <li class="breadcrumb-item">
-              <a class="text-decoration-none" href="../index.html">Home</a>
+              <a class="text-decoration-none" href="../routes.php?page=index">Home</a>
             </li>
             <li class="breadcrumb-item">
-              <a class="text-decoration-none" href="./index.html">doctors</a>
+              <a class="text-decoration-none" href="../routes.php?page=doctors">doctors</a>
             </li>
             <li class="breadcrumb-item active" aria-current="page">
               doctor name
             </li>
           </ol>
         </nav>
+        
         <div class="d-flex flex-column gap-3 details-card doctor-details">
           <div class="details d-flex gap-2 align-items-center">
             <img
@@ -36,6 +37,7 @@
             </div>
           </div>
           <hr />
+
           <form class="form">
             <div class="form-items">
               <div class="mb-3">

@@ -11,13 +11,13 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
 
                     <div class="d-flex gap-3 flex-wrap justify-content-center" role="group">
-                        <a type="button" class="btn btn-outline-light navigation--button" href="../views/index.php">Home</a>
+                        <a type="button" class="btn btn-outline-light navigation--button" href="../routes.php?page=index">Home</a>
+                      
+                        <a type="button" class="btn btn-outline-light navigation--button" href="../routes.php?page=majors">majors</a>
 
-                        <a type="button" class="btn btn-outline-light navigation--button" href="../views/majors.php">majors</a>
+                        <a type="button" class="btn btn-outline-light navigation--button" href="../routes.php?page=doctors">Doctors</a>
 
-                        <a type="button" class="btn btn-outline-light navigation--button" href="/doctors.php">Doctors</a>
-
-                        <a type="button" class="btn btn-outline-light navigation--button" href="./login.php">login</a>
+                        <a type="button" class="btn btn-outline-light navigation--button" href="../routes.php?page=login">login</a>
                     </div>
                 </div>
             </div>

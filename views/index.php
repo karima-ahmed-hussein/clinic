@@ -1,8 +1,6 @@
 
     <div class="page-wrapper">
-        
- 
-
+    
         <div class="container-fluid bg-blue text-white pt-3">
             <div class="container pb-5">
                 <div class="row gap-2">
@@ -32,7 +30,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
@@ -40,7 +38,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
@@ -48,7 +46,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
@@ -56,7 +54,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
@@ -64,7 +62,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
@@ -72,7 +70,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
@@ -80,7 +78,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
@@ -88,7 +86,7 @@
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
             </div>
@@ -103,7 +101,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="../routes.php?page=appointments" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
@@ -115,7 +113,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="../routes.php?page=doctors" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
@@ -127,7 +125,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse
+                                    <a href="doctors.php?page=doctors" class="btn btn-outline-primary card-button">Browse
                                         Doctors</a>
                                 </div>
                             </div>
@@ -139,7 +137,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="../routes.php?page=appointments" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
@@ -151,7 +149,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="appointments.php?page=appointments" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
@@ -163,7 +161,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="../routes.php?page=appointments" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
@@ -175,7 +173,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="../routes.php?page=appointments" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
@@ -187,7 +185,7 @@
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="../routes.php?page=appointments" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
